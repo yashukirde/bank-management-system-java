@@ -1,1 +1,10 @@
-/bin/
+# Compiled Java files
+*.class
+
+# Eclipse IDE files
+.settings/
+.project
+.classpath
+
+# Build folder
+bin/
